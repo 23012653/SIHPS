@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:08.05.2024
+## Register Number:212223040017
+## Name:ANUBHARATHI SS
 ## Problem Title
 E-Waste Facility Locator
 
